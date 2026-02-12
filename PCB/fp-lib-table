@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "OPL")(type "KiCad")(uri "C:/Users/cheny/Documents/macropadv2/OPL_Kicad_Library-master/Seeed Studio XIAO Series Library")(options "")(descr ""))
+  (lib (name "OLED")(type "KiCad")(uri "C:/Users/cheny/Downloads/KiCad-SSD1306-0.91-OLED-4pin-128x32.pretty-master/KiCad-SSD1306-0.91-OLED-4pin-128x32.pretty-master")(options "")(descr ""))
+  (lib (name "miniled")(type "KiCad")(uri "C:/Users/cheny/Documents/miniled")(options "")(descr ""))
+  (lib (name "mx")(type "KiCad")(uri "C:/Users/cheny/Downloads/MX_V2-main/MX_V2-main/MX_Hotswap.pretty")(options "")(descr ""))
+)
